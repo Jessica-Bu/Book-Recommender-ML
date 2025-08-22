@@ -25,7 +25,9 @@ Machine Learning Approach
 - Applied K-Means clustering to group similar books
 - Recommender suggests books from the same cluster as the selected book title
 
+Presentation
 
+Can be found [here](https://docs.google.com/presentation/d/1L9J1KSBkeI567iomXLOXDa-z-nfixviwgVE2_9W99HA/edit?slide=id.p#slide=id.p)
 
 
 
